@@ -1,4 +1,4 @@
 // write your code below!
-funtion happyHolidays(string) {
+funtion happyHolidays() {
   console.log('Happy holidays!')
 }
