@@ -2,3 +2,4 @@
 funtion sayhappyHolidays (string) {
   console.log(string)
 }
+sayhappyHolidays ()
